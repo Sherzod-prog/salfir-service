@@ -1,4 +1,4 @@
-import CommunicationSection from './components/communicationSection';
+import CommunicationSection from './components/CommunicationSection';
 import ConfidenceSection from './components/ConfidenceSection';
 import Footer from './components/Footer';
 import Header from './components/Header';

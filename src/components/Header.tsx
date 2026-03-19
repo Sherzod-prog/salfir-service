@@ -11,7 +11,7 @@ function Header() {
                             <img src="./salfir.png" alt="Logo" className="h-12 w-12" />
                         </div>
                         <div>
-                            <div className="text-2xl font-black tracking-wide">SALFIR SAVDO SERVIS</div>
+                            <div className="text-xl font-black tracking-wide">SALFIR SAVDO SERVIS</div>
                             <p className="text-sm text-white/80">Santexnika va keramika mahsulotlari do‘koni</p>
 
                         </div>

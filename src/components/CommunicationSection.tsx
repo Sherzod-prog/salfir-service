@@ -1,6 +1,9 @@
-
 function CommunicationSection() {
+
+
     return (
+
+
         <section id="aloqa" className="bg-white">
             <div className="mx-auto max-w-7xl px-6 py-16 md:px-10 lg:px-12">
                 <div className="grid gap-6 lg:grid-cols-2">
@@ -31,7 +34,7 @@ function CommunicationSection() {
                     <div className="rounded-4xl bg-sky-950 p-8 text-white md:p-10">
                         <p className="text-sm font-bold uppercase tracking-[0.2em] text-orange-300">So‘rov yuborish</p>
                         <h3 className="mt-3 text-3xl font-black">Mahsulot haqida ma’lumot oling</h3>
-                        <form className="mt-8 space-y-4">
+                        <form className="mt-8 space-y-4" >
                             <input
                                 type="text"
                                 placeholder="Ismingiz"
@@ -58,6 +61,7 @@ function CommunicationSection() {
                 </div>
             </div>
         </section>
+
     )
 }
 

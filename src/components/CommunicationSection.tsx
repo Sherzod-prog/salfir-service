@@ -11,10 +11,11 @@ function CommunicationSection() {
                             <div className="rounded-2xl bg-white px-5 py-4 shadow-sm ring-1 ring-slate-200">
                                 <div className="text-sm text-slate-500">Telefon</div>
                                 <div className="mt-1 text-lg font-bold">+998 97 397 81 88</div>
+                                <div className="mt-1 text-lg font-bold">+998 97 397 77 93</div>
                             </div>
                             <div className="rounded-2xl bg-white px-5 py-4 shadow-sm ring-1 ring-slate-200">
                                 <div className="text-sm text-slate-500">Email</div>
-                                <div className="mt-1 text-lg font-bold">info@salfir.uz</div>
+                                <div className="mt-1 text-lg font-bold">info@salfirsavdoservis.uz</div>
                             </div>
                             <div className="rounded-2xl bg-white px-5 py-4 shadow-sm ring-1 ring-slate-200">
                                 <div className="text-sm text-slate-500">Manzil</div>
